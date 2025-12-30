@@ -13,7 +13,7 @@ I am a motivated and detail-oriented **Software Engineering Student** at Aptech 
 - 🎓 Currently pursuing a **Diploma in Software Engineering** (Exp. 2026).
 - 💻 Passionate about building robust web applications using **Laravel & PHP**.
 - 🛠️ Experienced in managing institutional portals and optimizing digital workflows.
-- 📫 Reach me at: **hadiqakhanum21@gmail.com**
+- 📫 Reach me at: **hadiqakhan235@gmail.com**
 
 ---
 
