@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi there, I'm Hadiqa Khan 👋 
+### Software Engineer | Web Developer | Tech Enthusiast
 
-<!--
-**hadiqakhan25/hadiqakhan25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=hadiqakhan&label=Profile%20Views&color=e11d48&style=flat" alt="hadiqakhan" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+I am a motivated and detail-oriented **Software Engineering Student** at Aptech Gulshan 2, Karachi. With a strong foundation in Web Development and hands-on experience in **Academic Coordination** and **Career Counseling**, I blend technical expertise with organizational excellence. 
+
+- 🎓 Currently pursuing a **Diploma in Software Engineering** (Exp. 2026).
+- 💻 Passionate about building robust web applications using **Laravel & PHP**.
+- 🛠️ Experienced in managing institutional portals and optimizing digital workflows.
+- 📫 Reach me at: **hadiqakhanum21@gmail.com**
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+**Core Development**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Frameworks & Libraries**
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+
+**Tools & Others**
+- **JS Libraries:** Swiper JS, Wow JS, PHPMailer, DataTables.
+- **Tools:** Git, GitHub, MS Office Automation.
+- **Marketing:** Social Media Ads (FB & Instagram Content Management).
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hadiqakhan&show_icons=true&theme=rose&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadiqakhan&layout=compact&theme=rose" />
+</p>
+
+---
+
+### 🤝 Connect with me
+<p align="left">
+<a href="mailto:hadiqakhanum21@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
