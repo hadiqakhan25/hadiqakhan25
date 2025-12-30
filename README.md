@@ -36,13 +36,6 @@ I am a motivated and detail-oriented **Software Engineering Student** at Aptech 
 - **Tools:** Git, GitHub, MS Office Automation.
 - **Marketing:** Social Media Ads (FB & Instagram Content Management).
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hadiqakhan&show_icons=true&theme=rose&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadiqakhan&layout=compact&theme=rose" />
-</p>
 
 ---
 
